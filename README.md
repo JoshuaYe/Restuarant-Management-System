@@ -1,2 +1,2 @@
 # Restuarant-Management-System
-Using my proficient skills and knowledge in C++, I developed a program which allows users to create a restaurant with a set number of tables of different capacities. Then, the user can book, reserve, modify, and delete tables in the system.
+Restaurant Management System written in C++. I conducted a lot of research on C++ and object-oriented programming when completing this project. I used my skills and knowledge in C++ to develop a program which allows users to create a restaurant with a set number of tables of different capacities. Then, the user can book, reserve, modify, and delete tables in the system.
